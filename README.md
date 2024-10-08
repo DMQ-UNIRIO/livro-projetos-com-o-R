@@ -5,6 +5,9 @@
 ### Download do software R: 
 https://www.r-project.org/
 
+### Download do Rstudio: 
+https://posit.co/downloads/
+
 ### Download rápido do software R pelo mirror da Universidade Federal do Paraná: 
 https://cran-r.c3sl.ufpr.br/bin/windows/base
 
